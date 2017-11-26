@@ -2,3 +2,5 @@ Brain.java
 sb.pkl
 *~
 *.pyc
+config.dat
+*.class
